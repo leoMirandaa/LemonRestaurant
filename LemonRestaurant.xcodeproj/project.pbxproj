@@ -30,6 +30,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		7C8C0F982E160CAE00CBDA06 /* Practice */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Practice;
+			sourceTree = "<group>";
+		};
 		7CCD75892E137966001C9FA6 /* LemonRestaurant */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = LemonRestaurant;
@@ -79,6 +84,7 @@
 				7CCD75972E137968001C9FA6 /* LemonRestaurantTests */,
 				7CCD75A12E137968001C9FA6 /* LemonRestaurantUITests */,
 				7CCD75882E137966001C9FA6 /* Products */,
+				7C8C0F982E160CAE00CBDA06 /* Practice */,
 			);
 			sourceTree = "<group>";
 		};
@@ -108,6 +114,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				7C8C0F982E160CAE00CBDA06 /* Practice */,
 				7CCD75892E137966001C9FA6 /* LemonRestaurant */,
 			);
 			name = LemonRestaurant;
